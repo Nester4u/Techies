@@ -1,3 +1,3 @@
-# Techies
+# My assignment
 
-We are extremely focused on advancing our data science careers 
+I have attached my assignment on github
